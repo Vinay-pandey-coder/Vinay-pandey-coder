@@ -16,4 +16,5 @@ A passionate FullStack Developer from India<br><br>🌱 I'm a Full-Stack Develop
 
 ## 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinay-pandey-coder&bg_color=0d1117&color=ff4d8d&line=00ff9c&point=ffffff&area=true)
+
+![snake gif](https://github.com/ankitpathak62/ankitpathak62/blob/output/github-snake-dark.svg)
