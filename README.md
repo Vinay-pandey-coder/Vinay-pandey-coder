@@ -14,3 +14,6 @@ A passionate FullStack Developer from India<br><br>🌱 I'm a Full-Stack Develop
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-pandey-coder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinay-pandey-coder&bg_color=0d1117&color=ff4d8d&line=00ff9c&point=ffffff&area=true)
