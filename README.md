@@ -9,7 +9,7 @@
 </div>
 <p></p>
 <p align="justify">
-### 🚀 Welcome to my GitHub!
+🚀 Welcome to my GitHub!
 I am a **Computer Science Engineering student** currently balancing my academic journey with a professional role as a **Full Stack Developer**. I have mastered multiple languages and modern web technologies.
 
 I am a lifelong learner who believes in the power of sharing knowledge. Beyond building scalable applications, I enjoy teaching complex programming concepts to others, helping the developer community grow.
