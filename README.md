@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm vinay pandey" title="👋 Hi there! I'm vinay pandey"/>
+<img src="" alt="👋 Hi there! I'm vinay pandey" title="👋 Hi there! I'm vinay pandey"/>
 <div align="justify">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
