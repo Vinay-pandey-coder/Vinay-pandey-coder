@@ -30,6 +30,10 @@ I am a lifelong learner who believes in the power of sharing knowledge. Beyond b
       <br>Python
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Python" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
       <br>Javascript
     </td>
